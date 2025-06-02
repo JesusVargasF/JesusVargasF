@@ -29,7 +29,7 @@ Bienvenid@ a mi rincón de datos en GitHub. Soy **Data Engineer** con corazón d
 
 ## 📫 Cómo encontrarme
 
-* LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jesusvargasfig/)
+* LinkedIn: [JesusVargasFig](https://www.linkedin.com/in/jesusvargasfig/)
 * Correo: **vargasfigueroajosedejesus@gmail.com**
 
 ---
